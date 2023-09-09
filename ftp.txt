@@ -1,0 +1,7 @@
+anonymous:anonymous
+ftp:ftp
+guest:guest
+glftpd:glftpd
+sysdiag:sysdiag
+sysdiag:system
+anon:anon

@@ -1,0 +1,17 @@
+admin:admin
+ADMIN:ADMIN
+admin:root
+admin:j5Brn9
+admin:tomcat
+cxsdk:kdsxc
+j2deployer:j2deployer
+ovwebusr:OvW
+QCC:QLogic66
+role1:role1
+role1:tomcat
+role:changethis
+root:root
+tomcat:changethis
+tomcat:s3cret
+tomcat:tomcat
+xampp:xampp
